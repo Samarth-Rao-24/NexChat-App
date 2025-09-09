@@ -1,0 +1,7 @@
+firebase-admin
+python-firebase
+SpeechRecognition
+PyAudio
+requests
+python-dotenv
+Pillow
